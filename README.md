@@ -8,10 +8,13 @@ Object Detection model to identify relevant elements of a webpage.
 </p>
 
 Dataset : https://universe.roboflow.com/kbtu-yubl3/website-screens-ny1e6
+Weights: train/weights
 
 Results:
   Train: train
+  
   Val: val
+  
   Output: predict
   
   
